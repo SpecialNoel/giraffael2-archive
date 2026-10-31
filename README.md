@@ -1,4 +1,4 @@
-Giraffael2 (Archived)
+# Giraffael2 (Archived)
 
 Status: Archived — no longer actively maintained.
 
